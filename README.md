@@ -14,4 +14,5 @@ my-skill/
 python create_skill_template.py
 # 使用自定义名称
 python create_skill_template.py my-custom-skill
+
 SKILL.md模板已包含完整的结构：元数据头、概述、使用场景、使用说明、示例、注意事项和相关资源链接。
